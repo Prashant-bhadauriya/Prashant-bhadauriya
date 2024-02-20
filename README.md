@@ -20,10 +20,6 @@
 
 ###
 
-<h3 align="left">a seasoned Frontend Developer committed to delivering polished and impactful web experiences. With a focus on precision and user-centric design, I strive to elevate digital interactions to new heights. 👨‍💼💻</h3>
-
-###
-
 <h6 align="left">🔭 Currently Working On:<br>Crafting a real-time admin dashboard using React.js, powered by the elegance of Ant Design for UI components and Refine for state management and data handling. This dynamic project includes:<br><br>Real-time Updates: Implementing a robust system for instant data updates and seamless user interactions.<br>Responsive UI: Utilizing Ant Design's sophisticated components for a sleek and responsive user interface.<br>Efficient State Management: Employing Refine to efficiently manage the state and handle complex data scenarios.<br>Excited to share the progress and outcomes soon!<br><br>👯 Looking to Collaborate On:<br>Open to collaboration on real-time applications and data visualization projects, especially those leveraging React.js, Ant Design, and Refine. If you share a passion for building responsive and data-driven interfaces, let's collaborate to create something impactful.<br><br>🌱 Currently Learning:<br>Expanding my knowledge in React.js, mastering Ant Design's rich UI capabilities, and exploring the depth of state management with Refine. Diving into the intricacies of real-time data synchronization and leveraging these technologies to optimize the dashboard's performance.<br><br>💬 Ask Me About:<br>Anything related to building real-time applications using React.js, Ant Design, Refine, data visualization, or the challenges and triumphs of creating an admin dashboard. I'm here to share my experiences and insights.<br><br>⚡ Fun Fact:<br>Outside of coding, you can find me immersed in the world of anime or harnessing tranquility through yoga and gym workouts. Balancing the dynamic energy of coding with the serene and invigorating pursuits keeps me at my creative best.</h6>
 
 # 💻 Tech Stack:
